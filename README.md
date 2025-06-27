@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/Abdal192003/prediction-stock-app/blob/main/Screenshot%202025-06-28%20005015.png?raw=true)
 
 
 # Stock Price Prediction
