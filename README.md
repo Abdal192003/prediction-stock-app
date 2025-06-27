@@ -5,7 +5,7 @@ A machine learning project for predicting stock prices using deep learning.
 ## Project Structure
 
 - `Stock_Price_Prediction_model.ipynb`: Jupyter notebook containing the model training and evaluation code
-- `app.py`: Flask web application for making predictions
+- `app.py`: Streamlit web application for making predictions
 - `my_stock_prediction_model.keras`: Trained Keras model
 - `requirements.txt`: Python dependencies
 
@@ -14,18 +14,17 @@ A machine learning project for predicting stock prices using deep learning.
 1. Clone the repository
 2. Create a virtual environment:
    ```
-   python -m venv venv
+   conda create -p myenv python==3.10
    ```
 3. Activate the virtual environment:
-   - Windows: `venv\Scripts\activate`
-   - Unix/MacOS: `source venv/bin/activate`
+   - Windows: `conda activate myenv`
 4. Install dependencies:
    ```
    pip install -r requirements.txt
    ```
-5. Run the Flask application:
+5. Run the Streamlit application:
    ```
-   python app.py
+   streamlit app.py
    ```
 6. Open your browser and navigate to `http://localhost:5000`
 
@@ -38,7 +37,7 @@ A machine learning project for predicting stock prices using deep learning.
 
 - Python 3.x
 - TensorFlow/Keras
-- Flask
+- streamlit
 - pandas
 - numpy
 - scikit-learn
