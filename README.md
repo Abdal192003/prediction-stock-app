@@ -38,7 +38,7 @@ A machine learning project for predicting stock prices using deep learning.
 ## Usage
 
 1. Open `Stock_Price_Prediction_model.ipynb` in Jupyter Notebook to explore the model training
-2. Use the Flask web interface to make predictions
+2. Use the streamlit web interface to make predictions
 
 ## Dependencies
 
