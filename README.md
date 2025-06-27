@@ -1,5 +1,9 @@
 ![image alt](https://github.com/Abdal192003/prediction-stock-app/blob/main/Screenshot%202025-06-28%20005015.png?raw=true)
-
+![image alt](https://github.com/Abdal192003/prediction-stock-app/blob/main/Screenshot%202025-06-28%20005031.png?raw=true)
+![image alt](https://github.com/Abdal192003/prediction-stock-app/blob/main/Screenshot%202025-06-28%20005047.png?raw=true)
+![image alt](https://github.com/Abdal192003/prediction-stock-app/blob/main/Screenshot%202025-06-28%20005101.png?raw=true)
+![image alt](https://github.com/Abdal192003/prediction-stock-app/blob/main/Screenshot%202025-06-28%20005114.png?raw=true)
+![image alt](https://github.com/Abdal192003/prediction-stock-app/blob/main/Screenshot%202025-06-28%20005131.png?raw=true)
 
 # Stock Price Prediction
 
